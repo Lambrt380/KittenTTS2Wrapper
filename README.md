@@ -15,6 +15,7 @@ FFmpeg (optional, needed for checking audio recordings, you can use the program 
 the program was tested on NixOs Yarara 26.02 ke 6.18.39 using "shell.nix" and a wayland compositor, nowhere else, the program might not work on windows because of different syntax/paths
 
 ## running:
+python -m venv .venv
 source .venv/bin/activate | .venv/bin/activate.fish  
 .venv/bin/python -m pip install -r requirements  
 nix-shell --run '.venv/bin/python app.py' | .venv/bin/python app.py
