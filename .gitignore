@@ -1,0 +1,35 @@
+school-req.md
+
+# Local Python environment and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+
+# Downloaded models and caches
+.cache/
+models/
+checkpoints/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# Personal recordings and rendered audio
+voices/*
+!voices/.gitkeep
+*.[wW][aA][vV]
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

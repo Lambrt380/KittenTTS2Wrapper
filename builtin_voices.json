@@ -1,0 +1,143 @@
+{
+  "Bella": {
+    "reference": "kitten_v08_voice_2_female.wav"
+  },
+  "Jasper": {
+    "reference": "kitten_v08_voice_2_male.wav"
+  },
+  "Luna": {
+    "reference": "kitten_v08_voice_3_female.wav"
+  },
+  "Bruno": {
+    "reference": "kitten_v08_voice_3_male.wav"
+  },
+  "Rosie": {
+    "reference": "kitten_v08_voice_4_female.wav"
+  },
+  "Hugo": {
+    "reference": "kitten_v08_voice_4_male.wav"
+  },
+  "Kiki": {
+    "reference": "kitten_v08_voice_5_female.wav"
+  },
+  "Leo": {
+    "reference": "kitten_v08_voice_5_male.wav"
+  },
+  "Matthew": {
+    "reference": "exhausted_mechanic_male.wav"
+  },
+  "Elliot": {
+    "reference": "grieving_young_male.wav"
+  },
+  "Willow": {
+    "reference": "hushed_young_female.wav"
+  },
+  "Dolores": {
+    "reference": "southern_elderly_female.wav"
+  },
+  "Victor": {
+    "reference": "controlled_fury_older_male.wav"
+  },
+  "Dante": {
+    "reference": "playful_smooth_young_male.wav"
+  },
+  "Alfred": {
+    "reference": "tender_older_male.wav"
+  },
+  "Saoirse": {
+    "reference": "joyful_irish_female.wav"
+  },
+  "Claire": {
+    "reference": "playful_professional_female.wav"
+  },
+  "Raven": {
+    "reference": "controlled_fury_young_female.wav"
+  },
+  "Marcus": {
+    "reference": "03_radio_dj_smooth_male.wav"
+  },
+  "Herbert": {
+    "reference": "06_elderly_professor_wise_male.wav"
+  },
+  "Diana": {
+    "reference": "11_stern_military_officer_female.wav"
+  },
+  "Laurence": {
+    "reference": "17_dramatic_stage_actor_male.wav"
+  },
+  "Maeve": {
+    "reference": "18_warm_storyteller_cozy_female.wav"
+  },
+  "Walter": {
+    "reference": "21_warm_grandfather_male.wav"
+  },
+  "Edith": {
+    "reference": "22_elderly_grandmother_soft_female.wav"
+  },
+  "Miles": {
+    "reference": "24_gentle_librarian_male.wav"
+  },
+  "Grace": {
+    "reference": "29_soothing_nurse_female.wav"
+  },
+  "Reginald": {
+    "reference": "42_distinguished_elderly_diplomat_male.wav"
+  },
+  "Iris": {
+    "reference": "43_hushed_museum_guide_female.wav"
+  },
+  "Frank": {
+    "reference": "46_grizzled_war_veteran_gravelly_male.wav"
+  },
+  "Serena": {
+    "reference": "48_gentle_yoga_instructor_female.wav"
+  },
+  "Julian": {
+    "reference": "54_dreamy_poet_soft_male.wav"
+  },
+  "Eleanor": {
+    "reference": "55_somber_historian_female.wav"
+  },
+  "Otis": {
+    "reference": "63_rumbling_blues_musician_male.wav"
+  },
+  "Vincent": {
+    "reference": "73_hushed_museum_guide_male.wav"
+  },
+  "Martha": {
+    "reference": "76_weathered_radio_journalist_female.wav"
+  },
+  "Sable": {
+    "reference": "79_hushed_conspirator_female.wav"
+  },
+  "Victoria": {
+    "reference": "80_regal_narrator_female.wav"
+  },
+  "Arabic": {
+    "reference": "ar_arabic.wav"
+  },
+  "German": {
+    "reference": "de_german.wav"
+  },
+  "Spanish": {
+    "reference": "es_spanish.wav"
+  },
+  "French": {
+    "reference": "fr_french.wav"
+  },
+  "Italian": {
+    "reference": "it_italian.wav"
+  },
+  "Portuguese": {
+    "reference": "pt_portuguese.wav"
+  },
+  "Russian": {
+    "reference": "ru_russian.wav"
+  },
+  "Chinese": {
+    "reference": "zh_chinese.wav"
+  },
+  "Hindi": {
+    "reference": "hi_hindi.wav"
+  }
+}
